@@ -1,0 +1,47 @@
+body{
+    /*border: 10px solid rgb(174, 255, 0);*/
+    background-image: url('https://img.freepik.com/premium-vector/pi-day-seamless-pattern-with-mathematical-constants-baked-pie-template-hand-drawn-illustration_2175-12164.jpg');
+    background-size: cover;
+}
+
+
+
+h1{
+    text-align: center;
+    color: orangered;
+    font-size: 50px;
+    margin-top: 0px;
+    border: 5px solid black;
+    border-width: 10px;
+    box-shadow:10px 10px 10px rgb(0, 191, 255);
+    background-color: aqua;
+
+}
+label{
+    margin-left: 600px;
+    margin-top: 20px;
+    font-size: 20px;
+    display: flex;
+    border: 10px solid black;
+    width: 190px;
+    background-color: grey;
+}
+input{
+    margin-left: 600px;
+    font-size: 20px;
+    border: 5px solid black;
+    width: 70px;
+    background-color: cadetblue;
+}
+button{
+    margin-left: 600px;
+    font-size: 20px;
+    border: 7px solid black;
+    width: 140px;
+}
+#result,#result1,#result2{
+    margin-left: 600px;
+    font-size: 20px;
+    border: 2px solid black;
+    width: 20px;
+}
